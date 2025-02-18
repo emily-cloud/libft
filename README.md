@@ -25,7 +25,7 @@ Extra utility functions for handling strings, memory, and linked lists:
 ## **⚙️ Compilation & Usage**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/libft.git
+   git clone https://github.com/emily-cloud/libft.git
    cd libft
    ```  
 2. Compile the library:  
